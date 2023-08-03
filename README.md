@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pooja-muchandikar&label=Profile%20views&color=0e75b6&style=flat" alt="pooja-muchandikar" /> </p>
 
-- 🔭 I’m currently working at **QA Automation Frameworks, API Testing, Playwright, Cypress, BackStopJS**
+- 🔭 I’m currently working at **rtCamp**
 
-- 🌱 I’m currently learning **JavaScript, TypeScript, Python, PHP, React**
+- 🌱 I’m currently learning **JavaScript, TypeScript, Cypress, Python, PHP, React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pooja-muchandikar](https://github.com/pooja-muchandikar)
 
-- 💬 Ask me about **Playwright, BackStopJS**
+- 💬 Ask me about **Playwright, BackStopJS, API Testing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
